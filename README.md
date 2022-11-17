@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I'm Shariful Islam
+I am Md Shariful Islam, currently working as a Assistant Software Engineer at the [ERA-InfoTech Ltd](https://erainfotechbd.com/). I am a Full-Stack Java developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-- 🔭 I’m currently working on Assistant Software Engineer at ERA-InfoTech Ltd
-      Dhaka, Bangladesh
-- 🌱 I’m currently learning Microservices Architecture 
-- 👯 Ask me about anything related to  Core Java,Java Struts, Spring Boot,Angular and related technologies
-- ⚡ Fun fact:I use tabs over spaces
+[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharifewu/)](https://www.linkedin.com/in/sharifewu/)
+[![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sharifewu100@gmail.com)](mailto:sharifewu100@gmail.com)
+
 
 ## ⚡ Technologies
 
@@ -17,7 +15,6 @@ I'm Shariful Islam
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
