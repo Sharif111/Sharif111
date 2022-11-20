@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Md Shariful Islam, currently working as a Assistant Software Engineer at the [ERA-InfoTech Ltd](https://erainfotechbd.com/). I am a Full-Stack Java developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Md Shariful Islam, currently working as a Assistant Software Engineer at [ERA-InfoTech Ltd](https://erainfotechbd.com/). I am a Full-Stack Java developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 
 [![Gmail Badge](https://img.shields.io/badge/-sharifewu100@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sharifewu100@gmail.com)](mailto:sharifewu100@gmail.com)
@@ -8,6 +8,7 @@ I am Md Shariful Islam, currently working as a Assistant Software Engineer at th
 
 ## ⚡ Technologies
 
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
