@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Md Shariful Islam, currently working as a Software Engineer at [Adventure Dhaka Bangladesh](https://adventurekk.com). I am a Java developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Md Shariful Islam, currently working as a Sr. Software Engineer at [Adventure Dhaka Bangladesh](https://adventurekk.com). I am a Java developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 
 [![Gmail Badge](https://img.shields.io/badge/-sharifewu100@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sharifewu100@gmail.com)](mailto:sharifewu100@gmail.com)
